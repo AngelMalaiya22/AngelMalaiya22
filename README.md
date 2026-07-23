@@ -1,26 +1,66 @@
-<h1 align="center">Hi 👋 I'm Angel</h1>
-
-<h3 align="center">
-B.Tech CSE (AI & ML) Student
-</h3>
+<h1 align="center">Angel Malaiya</h1>
 
 <p align="center">
-Machine Learning Enthusiast • Java DSA • Open Source Learner
+B.Tech Computer Science (Artificial Intelligence & Machine Learning) <br>
+Sharda University
 </p>
 
-## 👩 About Me
+<p align="center">
+Machine Learning • Software Engineering • Data Structures & Algorithms
+</p>
 
-🎓 B.Tech CSE (AI & ML)
+---
 
-🏫 Sharda University
+## About
 
-💻 Learning
+I am an undergraduate Computer Science student specializing in Artificial Intelligence and Machine Learning. My interests lie in developing intelligent systems, applying machine learning to real-world problems, and building scalable software solutions.
 
-- Java
-- DSA
+Alongside my academic coursework, I actively strengthen my problem-solving skills through Data Structures & Algorithms in Java and build end-to-end machine learning projects using Python.
+
+---
+
+## Technical Skills
+
+**Languages**
+
+Java • Python • C • SQL
+
+**Machine Learning**
+
+Scikit-learn • Pandas • NumPy • Matplotlib
+
+**Tools**
+
+Git • GitHub • Jupyter Notebook • VS Code
+
+---
+
+## Featured Projects
+
+### Job Shield
+Machine learning system for detecting fraudulent job postings using supervised learning techniques.
+
+### Supervised Learning Projects
+Collection of regression and classification models implemented on real-world datasets.
+
+### Java DSA Journey
+Repository containing solutions and implementations of Data Structures & Algorithms in Java.
+
+---
+
+## Current Focus
+
 - Machine Learning
-- SQL
+- Data Structures & Algorithms
+- Software Development
+- Research in Artificial Intelligence
 
-🎯 Goal
+---
 
-Become a Machine Learning Engineer
+## Connect
+
+**GitHub**
+https://github.com/AngelMalaiya22
+
+**LinkedIn**
+https://www.linkedin.com/in/angel-malaiya-b3817a395/
