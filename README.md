@@ -43,8 +43,6 @@ Machine learning system for detecting fraudulent job postings using supervised l
 ### Supervised Learning Projects
 Collection of regression and classification models implemented on real-world datasets.
 
-### Java DSA Journey
-Repository containing solutions and implementations of Data Structures & Algorithms in Java.
 
 ---
 
@@ -64,3 +62,9 @@ https://github.com/AngelMalaiya22
 
 **LinkedIn**
 https://www.linkedin.com/in/angel-malaiya-b3817a395/
+
+**LeetCode**
+https://leetcode.com/u/Angel_Malaiya/
+
+**Codolio**
+https://codolio.com/profile/Angel_malaiya25
