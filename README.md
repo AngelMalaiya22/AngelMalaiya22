@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Angel</h1>
 
-<!--
-**AngelMalaiya22/AngelMalaiya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech CSE (AI & ML) Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Machine Learning Enthusiast • Java DSA • Open Source Learner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩 About Me
+
+🎓 B.Tech CSE (AI & ML)
+
+🏫 Sharda University
+
+💻 Learning
+
+- Java
+- DSA
+- Machine Learning
+- SQL
+
+🎯 Goal
+
+Become a Machine Learning Engineer
