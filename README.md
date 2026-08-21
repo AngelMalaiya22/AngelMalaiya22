@@ -1,207 +1,174 @@
-# Hi, I'm Angel 👋
+<div align="center">
 
-### B.Tech CSE | Artificial Intelligence & Machine Learning | Aspiring Machine Learning Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Hi%20I'm%20Angel%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-I am a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at Sharda University, Greater Noida.
+<a href="https://angelmalaiya22.github.io/angel-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/angel-malaiya-b3817a395">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:2025222124.angel@ug.sharda.ac.in">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I am passionate about **Machine Learning, Artificial Intelligence, Data Science, Software Development, and solving real-world problems using technology.**
+<br/><br/>
 
-Currently, I am strengthening my skills in **Python, Java, Data Structures & Algorithms, Machine Learning, and Web Development** while building practical projects and exploring research in AI.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+Machine+Learning;Building+an+AI+Smart+Farming+Assistant;Turning+Data+into+Decisions+with+ML;Always+learning%2C+always+building." />
 
----
+</div>
 
-## 👩‍💻 About Me
+<br/>
 
-- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
-- 🏫 Sharda University, Greater Noida
-- 🤖 Aspiring Machine Learning Engineer
-- 🌱 Currently learning and improving my skills in Machine Learning, Java, DSA & Web Development
-- 🔬 Interested in Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision
-- 🌾 Working on an AI-based Smart Farming project
-- 💼 Data Scientist Intern at CodSoft
-- 💻 Regularly practicing problems on coding platforms
-- 🚀 Interested in building practical AI/ML solutions
+## 🧠 About Me
 
----
+```python
+class Angel:
+    def __init__(self):
+        self.degree = "B.Tech CSE — AI & ML"
+        self.university = "Sharda University, Greater Noida"
+        self.role = "Data Scientist Intern @ CodSoft"
+        self.current_project = "AI Smart Farming Assistant"
+        self.interests = ["Machine Learning", "Deep Learning",
+                           "Computer Vision", "Explainable AI",
+                           "Agricultural AI"]
+        self.currently_learning = ["Advanced ML", "DSA", "Web Dev"]
 
-## 🛠️ Technical Skills
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent! 🌱")
+```
 
-### Programming Languages
+- 🎓 Specializing in **AI & Machine Learning**, Sharda University *(2025 – Present)*
+- 💼 Data Scientist Intern @ **CodSoft** *(Feb 2026 – Apr 2026)*
+- 🌾 Building **AI Smart Farming Assistant** — Crop Recommendation, Plant Disease Prediction & Weed Detection
+- 🏆 Cleared Smart India Hackathon internal selection — Round 2
+- 🔭 Researching real-world applications of ML in agriculture
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Machine Learning & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Web Development
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Technologies
-
+<br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+</div>
 
-# 🚀 Featured Projects
+<br/>
 
-## 🌾 AI Smart Farming Assistant
+## 📌 Featured Projects
 
-An AI-based agricultural decision-support system designed to assist farmers with data-driven agricultural decisions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Modules
+### 🌾 AI Smart Farming Assistant
+Crop recommendation, plant disease prediction & weed detection — an end-to-end ML system for smarter agriculture.
+<br/><em>Status: Ongoing research & development</em>
 
-- 🌱 Crop Recommendation
-- 🦠 Plant Disease Prediction
-- 🌾 Weed Detection
+</td>
+<td width="50%" valign="top">
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning
+### 🛡️ Job Shield
+Fake job posting detection using machine learning to protect job seekers from scams.
 
-🔗 [View Project on GitHub](https://github.com/AngelMalaiya22/AI-Smart-Farming-Crop-Recommendation)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### ❤️ Heart Disease Prediction
+ML model that predicts heart disease risk from patient health data.
 
-## 🛡️ Job Shield — Fake Job Detection
+</td>
+<td width="50%" valign="top">
 
-A Machine Learning project designed to identify potentially fraudulent job postings and help users recognize suspicious recruitment listings.
+### 🎓 Student Performance Prediction
+ML model predicting academic performance from student data.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [View Project on GitHub](https://github.com/AngelMalaiya22/JobShield-Fake-Job-Detection)
+### 💳 Credit Card Fraud Detection
+ML model for detecting fraudulent transactions in credit card data.
 
----
+</td>
+<td width="50%" valign="top">
 
-## ❤️ Heart Disease Prediction
+### 🔗 More on GitHub
+Explore the full source code and details for every project below.
 
-A Machine Learning project that predicts the likelihood of heart disease based on relevant patient health features.
+</td>
+</tr>
+</table>
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+<br/>
 
-🔗 [View Project on GitHub](https://github.com/AngelMalaiya22/Supervised-Learning-Projects/tree/main/Classification/Heart%20Disease%20Predication)
+## 📊 Coding Journey
 
----
+<div align="center">
 
-## 🎓 Student Performance Prediction
+| 🧩 LeetCode | 🟢 GeeksforGeeks | 🍳 CodeChef | ⚔️ Codeforces | 📈 Codolio |
+|:---:|:---:|:---:|:---:|:---:|
+| **106** solved | **234** solved | **415** solved | **17** solved | **815** solved |
+| [Profile →](https://leetcode.com/u/Angel_Malaiya/) | [Profile →](https://www.geeksforgeeks.org/profile/angelmalaiya22?tab=activity) | [Profile →](https://www.codechef.com/users/angel29) | [Profile →](https://codeforces.com/profile/BugInProgress) | [Profile →](https://codolio.com/profile/Angel_malaiya25) |
 
-A Machine Learning regression project focused on predicting student performance using academic and relevant student-related features.
+</div>
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+<br/>
 
-🔗 [View Project on GitHub](https://github.com/AngelMalaiya22/Supervised-Learning-Projects/tree/main/Regression/Student%20Marks%20Predication)
+## 📜 Certifications
 
----
+- 🏅 Applied Machine Learning — Sharda University
+- 🏅 Fundamentals of Machine Learning — Infosys Springboard
+- 🏅 Introduction to Data Science — Infosys Springboard
+- 🏅 Generative AI Essentials — TCS iON
+- 🏅 Basics of Python — Sharda University
 
-## 💳 Credit Card Fraud Detection
+<br/>
 
-A Machine Learning classification project focused on detecting potentially fraudulent credit card transactions using transaction-related data.
+## 📈 GitHub Stats
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+<div align="center">
 
-🔗 [View Project on GitHub](https://github.com/AngelMalaiya22/Supervised-Learning-Projects/tree/main/Classification/Credit%20Card%20Fraud%20Predication)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AngelMalaiya22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=22d3ee&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMalaiya22&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=22d3ee&currStreakLabel=6366f1" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelMalaiya22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=22d3ee&point=ffffff" width="100%"/>
 
-# 🔬 Research & Ongoing Work
+</div>
 
-## AI Smart Farming Assistant
+<br/>
 
-My current research and development work focuses on applying Artificial Intelligence and Machine Learning to agriculture.
+## 📫 Let's Connect
 
-### Research Areas
+<div align="center">
 
-- 🌱 Crop Recommendation
-- 🦠 Plant Disease Prediction
-- 🌾 Weed Detection
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 🔍 Explainable AI
-- 🌾 Agricultural AI
+<a href="https://www.linkedin.com/in/angel-malaiya-b3817a395">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:2025222124.angel@ug.sharda.ac.in">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://angelmalaiya22.github.io/angel-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-**Status:** Ongoing Research & Development
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
 
-# 💼 Experience
-
-### Data Scientist Intern — CodSoft
-
-**February 2026 — April 2026**
-
-Worked on data science and machine learning tasks, gaining practical experience in data analysis, model development, and applying machine learning concepts to real-world datasets.
-
----
-
-# 🏆 Achievements
-
-- 🥇 **Internal Smart India Hackathon** — Cleared selection up to Round 2
-- 🏆 **GeeksforGeeks Institute Rank:** 580
-- 💻 **LeetCode Global Ranking:** 1,548,529
-- 🏅 **LeetCode Contest Ranking:** 1,430
-- 🏅 **CodeChef Contest Ranking:** 993
-
----
-
-# 📜 Certifications
-
-- **Fundamentals of Machine Learning** — Infosys Springboard
-- **Introduction to Data Science** — Infosys Springboard
-- **Generative AI Essentials** — TCS iON
-- **Applied Machine Learning** — Sharda University, Greater Noida
-- **Basics of Python** — Sharda University, Greater Noida
-
----
-
-# 💻 Coding Profiles
-
-| Platform | Problems Solved |
-|----------|----------------:|
-| LeetCode | 106 |
-| GeeksforGeeks | 234 |
-| CodeChef | 415 |
-| Codeforces | 17 |
-| Codolio | 815 |
-
-### Profiles
-
-- 🟠 [LeetCode](https://leetcode.com/u/Angel_Malaiya/)
-- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/angelmalaiya22?tab=activity)
-- 🍴 [CodeChef](https://www.codechef.com/users/angel29)
-- 🔵 [Codeforces](https://codeforces.com/profile/BugInProgress)
-- 🟣 [Codolio](https://codolio.com/profile/Angel_malaiya25)
-
----
-
-# 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelMalaiya22&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMalaiya22&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🎯 Current Focus
-
-```text
-Machine Learning
-       ↓
-Data Science
-       ↓
-Deep Learning
-       ↓
-Computer Vision
-       ↓
-Artificial Intelligence
-       ↓
-AI-powered Real-World Applications
+</div>
