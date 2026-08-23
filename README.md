@@ -41,9 +41,26 @@ class Angel:
 
 - 🎓 Specializing in **AI & Machine Learning**, Sharda University *(2025 – Present)*
 - 💼 Data Scientist Intern @ **CodSoft** *(Feb 2026 – Apr 2026)*
-- 🌾 Building **AI Smart Farming Assistant** — Crop Recommendation, Plant Disease Prediction & Weed Detection
+- 🌾 Building **AI Smart Farming Assistant** — a 4-module agricultural AI system
 - 🏆 Cleared Smart India Hackathon internal selection — Round 2
 - 🔭 Researching real-world applications of ML in agriculture
+
+<br/>
+
+## 🌱 AI Smart Farming Assistant — Live Roadmap
+
+<div align="center">
+
+| Module | Focus | Status |
+|---|---|:---:|
+| 01 | Crop Recommendation | ✅ **Live & Complete** |
+| 02 | Fertilizer Recommendation | 🔄 In Progress |
+| 03 | Plant Disease Detection | 🔄 In Progress |
+| 04 | Weed Detection | 🕓 Planned |
+
+**[→ View the live project](https://angelmalaiya22.github.io/angel-portfolio/)**
+
+</div>
 
 <br/>
 
@@ -71,8 +88,7 @@ class Angel:
 <td width="50%" valign="top">
 
 ### 🌾 AI Smart Farming Assistant
-Crop recommendation, plant disease prediction & weed detection — an end-to-end ML system for smarter agriculture.
-<br/><em>Status: Ongoing research & development</em>
+4-module agricultural AI system — Crop Recommendation (live), Fertilizer Recommendation & Plant Disease Detection (in progress), Weed Detection (planned).
 
 </td>
 <td width="50%" valign="top">
@@ -145,9 +161,6 @@ Explore the full source code and details for every project below.
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelMalaiya22&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=22d3ee&currStreakLabel=6366f1" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelMalaiya22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=22d3ee&point=ffffff" width="100%"/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>
 
